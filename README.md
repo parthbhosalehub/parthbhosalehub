@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 TE Computer Engineering student at **Keystone School of Engineering, Pune**
+- 🎓 BE Computer Engineering student at **Keystone School of Engineering, Pune**
 - 💡 Passionate about **AI/ML, Data Science, Full-Stack Web Development**, and building real-world impactful tech like `Vaidya Chikitsa | वैद्यचिकित्सा` 🩺
 - 🎨 Also love sketching, chess ♟️, tabla 🥁, painting, psychology 🧠, and storytelling
 - 📢 YouTube Channel: Sharing insights on tech, psychology, and human excellence soon!
