@@ -43,7 +43,7 @@ Other:       AI/ML, NLP, Data Science, Chatbot Dev, Prompt Engineering
 ### 📲 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/arrivedthrone" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+  <a href="(https://github.com/parthbhosalehub)" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
   <a href="https://youtube.com/@yourchannel" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube" /></a>
 </p>
 
